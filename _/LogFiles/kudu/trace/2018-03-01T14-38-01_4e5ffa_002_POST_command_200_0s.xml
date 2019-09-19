@@ -1,0 +1,4 @@
+<step title="Incoming Request" date="2018-03-01T14:38:01.053" instance="4e5ffa" url="/command" method="POST" type="request" pid="11064,2,9" Connection="Keep-Alive" Content-Length="38" Content-Type="application/json" Authorization="Bas..." Host="mi-patio.scm.azurewebsites.net" X-WAWS-Unencoded-URL="/command" X-ARR-LOG-ID="15b464ef-dda9-4d19-b263-9f32c35684c1" X-SITE-DEPLOYMENT-ID="mi-patio" WAS-DEFAULT-HOSTNAME="mi-patio.scm.azurewebsites.net" X-Forwarded-Proto="https" >
+  <step title="Executing cd" date="2018-03-01T14:38:01.089" CWD="site\wwwroot" /><!-- duration: 135ms -->
+  <step title="Outgoing response" date="2018-03-01T14:38:01.225" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/10.0" x-ms-request-id="15b464ef-dda9-4d19-b263-9f32c35684c1" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 16ms -->
+</step><!-- duration: 187ms -->

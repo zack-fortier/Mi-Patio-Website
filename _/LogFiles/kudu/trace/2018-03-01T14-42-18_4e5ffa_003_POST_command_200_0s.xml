@@ -1,0 +1,5 @@
+<step title="Incoming Request" date="2018-03-01T14:42:18.209" instance="4e5ffa" url="/command" method="POST" type="request" pid="11064,2,11" Connection="Keep-Alive" Content-Length="97" Content-Type="application/json" Authorization="Bas..." Host="mi-patio.scm.azurewebsites.net" X-WAWS-Unencoded-URL="/command" X-ARR-LOG-ID="d5bbe080-aa91-4d72-99bb-54fd208cf6ac" X-SITE-DEPLOYMENT-ID="mi-patio" WAS-DEFAULT-HOSTNAME="mi-patio.scm.azurewebsites.net" X-Forwarded-Proto="https" >
+  <step title="Cleanup Xml Logs" date="2018-03-01T14:42:18.225" /><!-- duration: 0ms -->
+  <step title="Executing telnet smtp.sendgrid.net 587 &amp; echo. &amp; cd" date="2018-03-01T14:42:18.225" CWD="D:\home\site\wwwroot" /><!-- duration: 188ms -->
+  <step title="Outgoing response" date="2018-03-01T14:42:18.412" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/10.0" x-ms-request-id="d5bbe080-aa91-4d72-99bb-54fd208cf6ac" Cache-Control="private" X-AspNet-Version="4.0.30319" Content-Type="application/json; charset=utf-8" /><!-- duration: 0ms -->
+</step><!-- duration: 203ms -->

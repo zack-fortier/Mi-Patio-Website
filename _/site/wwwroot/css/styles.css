@@ -1,0 +1,567 @@
+﻿#header {
+    height: auto !important;
+    background-color: #009795 !important;
+    color: #ffffff !important;
+    width: 100% !important;
+}
+
+#footer {
+    height: auto !important;
+    background-color: #009795 !important;
+    color: #ffffff !important;
+    width: 100% !important;
+}
+
+#footer {
+    height: auto !important;
+    width: 100% !important;
+}
+
+body {
+    font-family: 'Lato', sans-serif  !important;
+    background-color: #ca3548 !important; 
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+}
+
+.home-middle {
+    justify-content: center !important;
+    width: 75% !important;
+    height: auto  !important;
+    margin-top: 30px !important;
+    margin-right: 30px !important;
+    margin-left: 30px !important;
+}
+.left-footer {
+    text-align: right;
+    margin-right: 40px;
+}
+.center-footer {
+    width: 30%;
+    float: left;
+    text-align: left;
+}
+.right-footer {
+    float: right;
+    text-align: right;
+    margin-right: 25px;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+.right-body {
+    float: right;
+    text-align: right;
+}
+.left-body {
+    text-align: left;
+    float: left;
+    margin-right: 5%;
+}
+.center-body {
+    float: left;
+    margin-right: 5%;
+}
+.right-body, .center-body, .left-body {
+    width: auto;
+    height: 200px;
+    text-align: center;
+}
+
+.home-grid {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    height: 260px !important;
+    padding: 5% !important;
+}
+
+.logo {
+    width: 50% !important;
+    height: auto !important;
+}
+
+.request-button {
+	width: 40%;
+	height: auto;	
+	text-align: right;
+	float: right;
+}
+
+.request-button > img {
+	float: right;
+	width: 40%;
+}
+
+.clear-float {
+	clear:both;
+}
+
+.logo-footer {
+    width: 30% !important;
+    margin: 0 !important;
+}
+
+img {
+    max-width: 100%;
+}
+
+.home-middle > img{
+	max-width: 100%;
+	text-align: center;
+}
+
+.box {
+    margin-top: 30px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    padding-top:0;
+    padding-bottom:0;
+    padding-right:0;
+    padding-left:0;
+}
+
+.navbar-brand {
+    width: 100px;
+}
+
+.nav{
+	width: 100%;
+	justify-content: center;
+	background-color: #009795;
+    font-family: sans-serif;
+    font-size: 150%;
+}
+.nav > li > a{
+    color: #ffffff;
+}
+.nav > li > a:hover{
+    background-color: aquamarine !important;
+    color: white;
+}
+.nav > li > a:focus{
+    background-color: white;
+    color: black;
+}
+.nav > .active > a{
+    color: #ffffff 
+}
+.nav > li > ul{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style:none;
+}
+.nav > li > ul{
+    visibility: hidden;
+}
+.nav > li:hover > ul{
+    visibility: visible;
+}
+.nav > li > ul > li > a{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 150%;
+}
+.dropdown-menu{
+    border-width: 0px;
+    border-color: #009795;
+    background-color: #009795 !important; 
+}
+.dropdown-menu:hover > li > a:hover{
+    background-color:aquamarine;
+    color: white;
+    background-image: initial; 
+}
+.footer-icon {
+    margin-right: 10px;
+    width: auto;
+    height: 25px;
+    float: left;
+}
+
+.menu-links {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 200%;
+}
+
+/*.footer-center {
+    
+}*/
+
+a:link {
+    color: #ffffff !important;
+}
+
+a:visited {
+    color: #ffffff !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.row {
+    width: 100%;
+    font-size: 100%;
+}
+
+/* Media Queries for header and footer */
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+    .navbar-nav > li{
+        padding-left: 55px;
+        padding-right:55px;
+      }
+    
+    .request-button > h2 > a {
+        text-align: right;
+    }
+    
+    .request-button > a > img {
+        float: right;
+    }
+}
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    .navbar-nav > li{
+        padding-left: 55px;
+        padding-right:55px;
+      }
+    
+    .request-button > h2 > a {
+        text-align: right;
+    }
+    
+    .request-button > a > img {
+        float: right;
+    }
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .request-button > h2 > a {
+        font-size: 30px;
+	margin-right: 100px; 
+	text-align: left;
+    }
+
+    .request-button > a > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-brand > img {
+        height: 50px;
+        width: 50px;
+    }
+
+    .dropdown {
+    	margin-right: 100px;
+    }
+
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .request-button > h2 > a {
+        font-size: 30px;
+	margin-right: 100px; 
+	text-align: left;
+    }
+
+    .request-button > a > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-brand {
+        height: 200px;
+        width: 200px;
+    }
+
+    .dropdown {
+    	margin-right: 100px;
+    }    
+     
+}
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .request-button > h2 > a {
+        font-size: 20px;
+	margin-right: 100px; 
+	text-align: left;
+    }
+
+    .request-button > a > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-brand {
+        height: 200px;
+        width: 200px;
+    }    
+    
+    .footer-center {
+    	text-align: left;
+    }
+
+    .left-footer {
+    	text-align: left;
+    }
+
+    .dropdown {
+    	margin-right: 100px;
+    }
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+	
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .request-button > h2 > a {
+        font-size: 12px; 
+	text-align: left;
+    }
+
+    .request-button > a > img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .navbar-brand {
+        height: 150px;
+        width: 150px;
+    }
+
+    .footer-center {
+    	text-align: left;
+    }
+
+    .left-footer {
+    	text-align: left;
+    }
+
+    .dropdown {
+    	margin-right: 100px;
+    }        
+    
+  }
+
+.dropbtn {
+    background-color: #009795;
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    border: none;
+}
+    
+.dropdown {
+    position: relative;
+    text-align: center;
+}
+    
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #009795;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    font-size: 150%;
+}
+    
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+    
+.dropdown-content a:hover {
+    background-color: aquamarine;
+}
+    
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+    
+.dropdown:hover .dropbtn {
+    background-color: aquamarine;
+}
+    
+.gallery-page {
+    margin-left: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+     
+    .menu-pages {
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        color: white;
+    }
+    
+    .menu-pages h1 {
+        margin-bottom: 20px;
+    }
+    
+    .menu-pages .row {
+        margin-top: 20px;
+        font-size: 120%;
+        margin-bottom: 20px;
+    }
+    
+    .menu-item {
+        font-size: 150%;
+    }
+    
+    .contact-page {
+        margin-top: 20px;
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+    
+    .contact-page .row .col {
+        color: white;
+        font-size: 150%;
+    }
+
+/* Specials page styling */
+#main {
+    background-color: #ca3548;
+}
+
+.well {
+    background-color: #5b1aca;
+}
+
+.well .ul .li {
+    background-color: #5b1aca;
+}
+
+.sidenav h2 {
+    color: #00caaf;
+    font-family: 'Dancing Script', cursive;
+}
+
+.sidenav a {
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #064579;
+}
+
+#day {
+    background-color: #ca3548;
+}
+
+#special-page h2 {
+    color: #00caaf;
+    font-family: 'Dancing Script', cursive; 
+}
+
+.caption {
+    background-color: #e8a356;
+    border-style: hidden;
+    font-size: 20px;
+}
+
+.caption p {
+    color: #ffffff;
+}
+
+#lent {
+    color:#35cab6;
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+}
+
+#panel {
+    background-color: #5b1aca;
+}
+
+.panel-body p{
+    color: #ffffff;
+}
+
+/* Job Applications Page Styling */
+#job-panel-heading {
+    background: #5a17b1;
+    background-image: none;
+    color: #35cab6;
+    font-family: 'Playball', cursive;
+    font-size: 40px;
+    text-align: center;
+}

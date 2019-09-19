@@ -1,0 +1,866 @@
+[24-Feb-2018 23:01:52 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:01:53 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:01:53 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:01:53 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:02:13 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:02:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:02:13 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:02:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:02:15 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:02:15 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:02:15 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:02:15 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:02:51 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:02:51 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:02:51 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:02:51 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:04:03 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:04:03 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:04:03 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:04:03 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:04:05 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:04:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:04:05 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:04:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:05:01 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:05:01 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:05:01 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:05:01 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:05:02 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:05:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:05:02 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:05:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:06:50 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:06:50 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:06:50 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:06:50 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:07:22 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:07:22 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:07:22 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:07:22 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:07:46 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:07:46 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:07:46 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:07:46 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:07:58 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:07:58 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:07:58 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:07:58 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:08:01 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:08:01 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:08:01 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:08:01 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:08:07 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:08:07 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:08:07 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:08:07 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:09:28 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:09:28 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[24-Feb-2018 23:09:28 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:09:28 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:09:52 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:09:52 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:06 America/Los_Angeles] PHP Warning:  include(/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:06 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:08 America/Los_Angeles] PHP Warning:  include(/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:08 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:14 America/Los_Angeles] PHP Warning:  include(/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:14 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:15 America/Los_Angeles] PHP Warning:  include(/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[24-Feb-2018 23:10:15 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 00:05:31 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[25-Feb-2018 00:05:31 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[25-Feb-2018 00:05:31 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 00:05:31 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 00:08:21 America/Los_Angeles] PHP Warning:  include(wwwroot/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[25-Feb-2018 00:08:21 America/Los_Angeles] PHP Warning:  include(): Failed opening 'wwwroot/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[25-Feb-2018 00:08:21 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 00:08:21 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 00:08:39 America/Los_Angeles] PHP Warning:  include(wwwroot/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 21
+[25-Feb-2018 00:08:39 America/Los_Angeles] PHP Warning:  include(): Failed opening 'wwwroot/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 21
+[25-Feb-2018 00:08:39 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 00:08:39 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\index\index.phtml on line 66
+[25-Feb-2018 06:56:18 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 06:56:18 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 06:56:18 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 06:56:18 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 06:56:44 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 06:56:44 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 06:56:44 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 06:56:44 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 06:56:48 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 06:56:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 06:56:48 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 06:56:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 07:05:05 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 07:05:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 07:05:05 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 07:05:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 07:05:10 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 07:05:10 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 07:05:10 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 07:05:10 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 07:05:13 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\events\index.phtml on line 16
+[25-Feb-2018 07:05:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\events\index.phtml on line 16
+[25-Feb-2018 07:05:13 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\events\index.phtml on line 24
+[25-Feb-2018 07:05:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\events\index.phtml on line 24
+[25-Feb-2018 07:05:16 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\gallery\index.phtml on line 16
+[25-Feb-2018 07:05:16 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\gallery\index.phtml on line 16
+[25-Feb-2018 07:05:16 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\gallery\index.phtml on line 24
+[25-Feb-2018 07:05:16 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\gallery\index.phtml on line 24
+[25-Feb-2018 07:05:19 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\contact-us\index.phtml on line 16
+[25-Feb-2018 07:05:19 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\contact-us\index.phtml on line 16
+[25-Feb-2018 07:05:19 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\contact-us\index.phtml on line 24
+[25-Feb-2018 07:05:19 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\contact-us\index.phtml on line 24
+[25-Feb-2018 07:05:37 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 07:05:37 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 07:05:37 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 07:05:37 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 08:51:35 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 08:51:35 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 08:51:35 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 08:51:35 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 10:15:59 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 10:15:59 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 10:15:59 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 10:15:59 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 12:57:33 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 12:57:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 12:57:33 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 12:57:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 12:57:35 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 12:57:35 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 12:57:35 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 12:57:35 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 12:57:37 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\events\index.phtml on line 16
+[25-Feb-2018 12:57:37 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\events\index.phtml on line 16
+[25-Feb-2018 12:57:37 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\events\index.phtml on line 24
+[25-Feb-2018 12:57:37 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\events\index.phtml on line 24
+[25-Feb-2018 13:43:16 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 13:43:16 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 13:43:16 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 13:43:16 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 13:43:40 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 13:43:40 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 13:43:40 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 13:43:40 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 14:30:05 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 14:30:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 14:30:05 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 14:30:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 14:30:08 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 14:30:08 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 14:30:08 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 14:30:08 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 14:30:10 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 14:30:10 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 14:30:10 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 14:30:10 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 15:20:26 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 15:20:26 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 15:20:26 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 15:20:26 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 15:27:12 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\salads\index.phtml on line 16
+[25-Feb-2018 15:27:12 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\salads\index.phtml on line 16
+[25-Feb-2018 15:27:12 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\salads\index.phtml on line 24
+[25-Feb-2018 15:27:12 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\salads\index.phtml on line 24
+[25-Feb-2018 15:27:31 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 15:27:31 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 15:27:31 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 15:27:31 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 15:36:56 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 15:36:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 15:36:56 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 15:36:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 15:37:01 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 15:37:01 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 15:37:01 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 15:37:01 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 16:06:33 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\gallery\index.phtml on line 16
+[25-Feb-2018 16:06:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\gallery\index.phtml on line 16
+[25-Feb-2018 16:06:33 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\gallery\index.phtml on line 24
+[25-Feb-2018 16:06:33 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\gallery\index.phtml on line 24
+[25-Feb-2018 16:06:36 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 16:06:36 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 16:06:36 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 16:06:36 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 16:06:38 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\soups\index.phtml on line 16
+[25-Feb-2018 16:06:38 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\soups\index.phtml on line 16
+[25-Feb-2018 16:06:38 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\soups\index.phtml on line 24
+[25-Feb-2018 16:06:38 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\soups\index.phtml on line 24
+[25-Feb-2018 16:34:48 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 16:34:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 16
+[25-Feb-2018 16:34:48 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 16:34:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\appetizers\index.phtml on line 24
+[25-Feb-2018 16:34:56 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 16:34:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 16
+[25-Feb-2018 16:34:56 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 16:34:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 24
+[25-Feb-2018 18:02:03 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 18:02:03 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 16
+[25-Feb-2018 18:02:03 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 18:02:03 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\menu\index.phtml on line 24
+[25-Feb-2018 18:02:06 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 18:02:06 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 18:02:06 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 18:02:06 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 18:02:09 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\gallery\index.phtml on line 16
+[25-Feb-2018 18:02:09 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\gallery\index.phtml on line 16
+[25-Feb-2018 18:02:09 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\gallery\index.phtml on line 24
+[25-Feb-2018 18:02:09 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\gallery\index.phtml on line 24
+[25-Feb-2018 18:02:20 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 18:02:20 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 17
+[25-Feb-2018 18:02:20 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 18:02:20 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\specials\index.phtml on line 25
+[25-Feb-2018 18:05:32 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\contact-us\index.phtml on line 16
+[25-Feb-2018 18:05:32 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\contact-us\index.phtml on line 16
+[25-Feb-2018 18:05:32 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\contact-us\index.phtml on line 24
+[25-Feb-2018 18:05:32 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\contact-us\index.phtml on line 24
+[25-Feb-2018 18:13:08 America/Los_Angeles] PHP Warning:  include(public/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 18:13:08 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 16
+[25-Feb-2018 18:13:08 America/Los_Angeles] PHP Warning:  include(public/includes/footer.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\index.phtml on line 24
+[25-Feb-2018 18:13:08 America/Los_Angeles] PHP Warning:  include(): Failed opening 'public/includes/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\index.phtml on line 24
+[26-Feb-2018 18:26:11 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'DbAdapter' not found in D:\home\site\wwwroot\index.php:46
+Stack trace:
+#0 [internal function]: Closure->{closure}()
+#1 [internal function]: Phalcon\Di\Service->resolve(NULL, Object(Phalcon\Di\FactoryDefault))
+#2 [internal function]: Phalcon\Di->get('db', NULL)
+#3 [internal function]: Phalcon\Di->getShared('db')
+#4 [internal function]: Phalcon\Mvc\Model\Manager->_getConnection(Object(Users), NULL)
+#5 [internal function]: Phalcon\Mvc\Model\Manager->getReadConnection(Object(Users))
+#6 [internal function]: Phalcon\Mvc\Model->getReadConnection()
+#7 [internal function]: Phalcon\Mvc\Model\MetaData\Strategy\Introspection->getMetaData(Object(Users), Object(Phalcon\Di\FactoryDefault))
+#8 [internal function]: Phalcon\Mvc\Model\MetaData->_initialize(Object(Users), 'users-users', 'users', '')
+#9 [internal function]: Phalcon\Mvc\Model\MetaData->readMetaDataIndex(Object(Users), 0)
+#10 [internal function]: Phalcon\Mvc\Model\MetaData->getAttributes(Object(Users))
+#11 [internal function]: Phalcon\Mvc\Mod in D:\home\site\wwwroot\index.php on line 46
+[26-Feb-2018 18:31:11 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'Users' not found in D:\home\site\app\controllers\SignupController.php:14
+Stack trace:
+#0 [internal function]: SignupController->registerAction()
+#1 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(SignupController), 'registerAction', Array)
+#2 [internal function]: Phalcon\Dispatcher->dispatch()
+#3 D:\home\site\wwwroot\index.php(59): Phalcon\Mvc\Application->handle()
+#4 {main}
+  thrown in D:\home\site\app\controllers\SignupController.php on line 14
+[26-Feb-2018 18:42:59 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'DbAdapter' not found in D:\home\site\wwwroot\index.php:46
+Stack trace:
+#0 [internal function]: Closure->{closure}()
+#1 [internal function]: Phalcon\Di\Service->resolve(NULL, Object(Phalcon\Di\FactoryDefault))
+#2 [internal function]: Phalcon\Di->get('db', NULL)
+#3 [internal function]: Phalcon\Di->getShared('db')
+#4 [internal function]: Phalcon\Mvc\Model\Manager->_getConnection(Object(Users), NULL)
+#5 [internal function]: Phalcon\Mvc\Model\Manager->getReadConnection(Object(Users))
+#6 [internal function]: Phalcon\Mvc\Model->getReadConnection()
+#7 [internal function]: Phalcon\Mvc\Model\MetaData\Strategy\Introspection->getMetaData(Object(Users), Object(Phalcon\Di\FactoryDefault))
+#8 [internal function]: Phalcon\Mvc\Model\MetaData->_initialize(Object(Users), 'users-users', 'users', '')
+#9 [internal function]: Phalcon\Mvc\Model\MetaData->readMetaDataIndex(Object(Users), 0)
+#10 [internal function]: Phalcon\Mvc\Model\MetaData->getAttributes(Object(Users))
+#11 [internal function]: Phalcon\Mvc\Mod in D:\home\site\wwwroot\index.php on line 46
+[26-Feb-2018 18:43:07 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'DbAdapter' not found in D:\home\site\wwwroot\index.php:46
+Stack trace:
+#0 [internal function]: Closure->{closure}()
+#1 [internal function]: Phalcon\Di\Service->resolve(NULL, Object(Phalcon\Di\FactoryDefault))
+#2 [internal function]: Phalcon\Di->get('db', NULL)
+#3 [internal function]: Phalcon\Di->getShared('db')
+#4 [internal function]: Phalcon\Mvc\Model\Manager->_getConnection(Object(Users), NULL)
+#5 [internal function]: Phalcon\Mvc\Model\Manager->getReadConnection(Object(Users))
+#6 [internal function]: Phalcon\Mvc\Model->getReadConnection()
+#7 [internal function]: Phalcon\Mvc\Model\MetaData\Strategy\Introspection->getMetaData(Object(Users), Object(Phalcon\Di\FactoryDefault))
+#8 [internal function]: Phalcon\Mvc\Model\MetaData->_initialize(Object(Users), 'users-users', 'users', '')
+#9 [internal function]: Phalcon\Mvc\Model\MetaData->readMetaDataIndex(Object(Users), 0)
+#10 [internal function]: Phalcon\Mvc\Model\MetaData->getAttributes(Object(Users))
+#11 [internal function]: Phalcon\Mvc\Mod in D:\home\site\wwwroot\index.php on line 46
+[26-Feb-2018 18:54:02 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'DbAdapter' not found in D:\home\site\wwwroot\index.php:46
+Stack trace:
+#0 [internal function]: Closure->{closure}()
+#1 [internal function]: Phalcon\Di\Service->resolve(NULL, Object(Phalcon\Di\FactoryDefault))
+#2 [internal function]: Phalcon\Di->get('db', NULL)
+#3 [internal function]: Phalcon\Di->getShared('db')
+#4 [internal function]: Phalcon\Mvc\Model\Manager->_getConnection(Object(Users), NULL)
+#5 [internal function]: Phalcon\Mvc\Model\Manager->getReadConnection(Object(Users))
+#6 [internal function]: Phalcon\Mvc\Model->getReadConnection()
+#7 [internal function]: Phalcon\Mvc\Model\MetaData\Strategy\Introspection->getMetaData(Object(Users), Object(Phalcon\Di\FactoryDefault))
+#8 [internal function]: Phalcon\Mvc\Model\MetaData->_initialize(Object(Users), 'users-users', 'users', '')
+#9 [internal function]: Phalcon\Mvc\Model\MetaData->readMetaDataIndex(Object(Users), 0)
+#10 [internal function]: Phalcon\Mvc\Model\MetaData->getAttributes(Object(Users))
+#11 [internal function]: Phalcon\Mvc\Mod in D:\home\site\wwwroot\index.php on line 46
+[26-Feb-2018 18:54:12 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'DbAdapter' not found in D:\home\site\wwwroot\index.php:46
+Stack trace:
+#0 [internal function]: Closure->{closure}()
+#1 [internal function]: Phalcon\Di\Service->resolve(NULL, Object(Phalcon\Di\FactoryDefault))
+#2 [internal function]: Phalcon\Di->get('db', NULL)
+#3 [internal function]: Phalcon\Di->getShared('db')
+#4 [internal function]: Phalcon\Mvc\Model\Manager->_getConnection(Object(Users), NULL)
+#5 [internal function]: Phalcon\Mvc\Model\Manager->getWriteConnection(Object(Users))
+#6 [internal function]: Phalcon\Mvc\Model->getWriteConnection()
+#7 D:\home\site\app\controllers\SignupController.php(20): Phalcon\Mvc\Model->save(Array, Array)
+#8 [internal function]: SignupController->registerAction()
+#9 [internal function]: Phalcon\Dispatcher->callActionMethod(Object(SignupController), 'registerAction', Array)
+#10 [internal function]: Phalcon\Dispatcher->dispatch()
+#11 D:\home\site\wwwroot\index.php(59): Phalcon\Mvc\Application->handle()
+#12 {main}
+  thrown in D:\home\site\wwwroot\index.php on line 46
+[27-Feb-2018 06:08:13 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in D:\home\site\app\controllers\AboutUsController.php on line 10
+[27-Feb-2018 06:10:30 America/Los_Angeles] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:30 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:36 America/Los_Angeles] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:36 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:40 America/Los_Angeles] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:40 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:41 America/Los_Angeles] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:41 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:49 America/Los_Angeles] PHP Warning:  include(/includes/header.php): failed to open stream: No such file or directory in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 06:10:49 America/Los_Angeles] PHP Warning:  include(): Failed opening '/includes/header.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\about-us\more.phtml on line 16
+[27-Feb-2018 21:54:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '-', expecting '(' in D:\home\site\app\controllers\ReservationsController.php on line 12
+[27-Feb-2018 21:55:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '-', expecting '(' in D:\home\site\app\controllers\ReservationsController.php on line 12
+[27-Feb-2018 21:55:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '-', expecting '(' in D:\home\site\app\controllers\ReservationsController.php on line 12
+[27-Feb-2018 21:55:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '-', expecting '(' in D:\home\site\app\controllers\ReservationsController.php on line 12
+[27-Feb-2018 21:55:03 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '-', expecting '(' in D:\home\site\app\controllers\ReservationsController.php on line 12
+[28-Feb-2018 20:25:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '[' in D:\home\site\app\views\reservations\sent.phtml on line 20
+[28-Feb-2018 20:25:40 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '[' in D:\home\site\app\views\reservations\sent.phtml on line 20
+[28-Feb-2018 20:26:58 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '[' in D:\home\site\app\views\reservations\sent.phtml on line 20
+[28-Feb-2018 20:27:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '[' in D:\home\site\app\views\reservations\sent.phtml on line 20
+[01-Mar-2018 07:35:43 America/Los_Angeles] PHP Warning:  require(site/app/library/sendgrid-php/sendgrid-php.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\send.phtml on line 9
+[01-Mar-2018 07:35:43 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'site/app/library/sendgrid-php/sendgrid-php.php' (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\send.phtml on line 9
+[01-Mar-2018 07:37:54 America/Los_Angeles] PHP Warning:  require(site/app/library/sendgrid-php/sendgrid-php.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\send.phtml on line 9
+[01-Mar-2018 07:37:54 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'site/app/library/sendgrid-php/sendgrid-php.php' (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\send.phtml on line 9
+[01-Mar-2018 07:37:59 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '[' in D:\home\site\app\views\reservations\sent.phtml on line 20
+[01-Mar-2018 07:38:03 America/Los_Angeles] PHP Warning:  require(site/app/library/sendgrid-php/sendgrid-php.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\send.phtml on line 9
+[01-Mar-2018 07:38:03 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'site/app/library/sendgrid-php/sendgrid-php.php' (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\send.phtml on line 9
+[01-Mar-2018 07:40:10 America/Los_Angeles] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\send.phtml on line 6
+[01-Mar-2018 07:40:10 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\send.phtml on line 6
+[01-Mar-2018 07:43:20 America/Los_Angeles] PHP Warning:  include_once(vendor/autoload.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\send.phtml on line 2
+[01-Mar-2018 07:43:20 America/Los_Angeles] PHP Warning:  include_once(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\send.phtml on line 2
+[01-Mar-2018 07:43:20 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'Swift_SmtpTransport' not found in D:\home\site\app\views\reservations\send.phtml:33
+Stack trace:
+#0 [internal function]: unknown()
+#1 [internal function]: Phalcon\Mvc\View\Engine\Php->render('D:\\home\\site/ap...', Array, true)
+#2 [internal function]: Phalcon\Mvc\View->_engineRender(Array, 'reservations/se...', true, true, NULL)
+#3 [internal function]: Phalcon\Mvc\View->render('reservations', 'send')
+#4 D:\home\site\wwwroot\index.php(60): Phalcon\Mvc\Application->handle()
+#5 {main}
+  thrown in D:\home\site\app\views\reservations\send.phtml on line 33
+[01-Mar-2018 07:45:41 America/Los_Angeles] PHP Warning:  include_once(vendor/autoload.php): failed to open stream: No such file or directory in D:\home\site\app\views\send\index.phtml on line 2
+[01-Mar-2018 07:45:41 America/Los_Angeles] PHP Warning:  include_once(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\send\index.phtml on line 2
+[01-Mar-2018 07:45:41 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'Swift_SmtpTransport' not found in D:\home\site\app\views\send\index.phtml:33
+Stack trace:
+#0 [internal function]: unknown()
+#1 [internal function]: Phalcon\Mvc\View\Engine\Php->render('D:\\home\\site/ap...', Array, true)
+#2 [internal function]: Phalcon\Mvc\View->_engineRender(Array, 'send/index', true, true, NULL)
+#3 [internal function]: Phalcon\Mvc\View->render('send', 'index')
+#4 D:\home\site\wwwroot\index.php(60): Phalcon\Mvc\Application->handle()
+#5 {main}
+  thrown in D:\home\site\app\views\send\index.phtml on line 33
+[01-Mar-2018 07:45:56 America/Los_Angeles] PHP Warning:  include_once(vendor/autoload.php): failed to open stream: No such file or directory in D:\home\site\app\views\send\index.phtml on line 2
+[01-Mar-2018 07:45:56 America/Los_Angeles] PHP Warning:  include_once(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\send\index.phtml on line 2
+[01-Mar-2018 07:45:56 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'Swift_SmtpTransport' not found in D:\home\site\app\views\send\index.phtml:33
+Stack trace:
+#0 [internal function]: unknown()
+#1 [internal function]: Phalcon\Mvc\View\Engine\Php->render('D:\\home\\site/ap...', Array, true)
+#2 [internal function]: Phalcon\Mvc\View->_engineRender(Array, 'send/index', true, true, NULL)
+#3 [internal function]: Phalcon\Mvc\View->render('send', 'index')
+#4 D:\home\site\wwwroot\index.php(60): Phalcon\Mvc\Application->handle()
+#5 {main}
+  thrown in D:\home\site\app\views\send\index.phtml on line 33
+[01-Mar-2018 07:45:57 America/Los_Angeles] PHP Warning:  include_once(vendor/autoload.php): failed to open stream: No such file or directory in D:\home\site\app\views\send\index.phtml on line 2
+[01-Mar-2018 07:45:57 America/Los_Angeles] PHP Warning:  include_once(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\send\index.phtml on line 2
+[01-Mar-2018 07:45:57 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Class 'Swift_SmtpTransport' not found in D:\home\site\app\views\send\index.phtml:33
+Stack trace:
+#0 [internal function]: unknown()
+#1 [internal function]: Phalcon\Mvc\View\Engine\Php->render('D:\\home\\site/ap...', Array, true)
+#2 [internal function]: Phalcon\Mvc\View->_engineRender(Array, 'send/index', true, true, NULL)
+#3 [internal function]: Phalcon\Mvc\View->render('send', 'index')
+#4 D:\home\site\wwwroot\index.php(60): Phalcon\Mvc\Application->handle()
+#5 {main}
+  thrown in D:\home\site\app\views\send\index.phtml on line 33
+[01-Mar-2018 08:02:50 America/Los_Angeles] PHP Warning:  include(sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:02:50 America/Los_Angeles] PHP Warning:  include(): Failed opening 'sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:04:00 America/Los_Angeles] PHP Warning:  include(sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:04:00 America/Los_Angeles] PHP Warning:  include(): Failed opening 'sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:04:04 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '[' in D:\home\site\app\views\reservations\sent.phtml on line 2
+[01-Mar-2018 08:08:55 America/Los_Angeles] PHP Warning:  include(sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:08:55 America/Los_Angeles] PHP Warning:  include(): Failed opening 'sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:11:25 America/Los_Angeles] PHP Warning:  include(sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:11:25 America/Los_Angeles] PHP Warning:  include(): Failed opening 'sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:12:12 America/Los_Angeles] PHP Warning:  include(sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:12:12 America/Los_Angeles] PHP Warning:  include(): Failed opening 'sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:12:13 America/Los_Angeles] PHP Warning:  include(sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:12:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:14:13 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:14:13 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:15:09 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:15:09 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:18:30 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:18:30 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 08:43:46 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 08:44:56 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 08:47:42 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 08:47:49 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 12:25:25 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 12:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 13:14:34 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 20:06:17 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 21:55:47 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 22:37:02 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[01-Mar-2018 22:43:10 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[02-Mar-2018 04:57:17 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[03-Mar-2018 13:16:59 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[04-Mar-2018 14:41:48 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[04-Mar-2018 18:17:39 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[04-Mar-2018 19:26:05 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[04-Mar-2018 21:52:08 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[05-Mar-2018 19:54:20 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[06-Mar-2018 12:43:12 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[06-Mar-2018 13:20:54 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[06-Mar-2018 13:57:30 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[06-Mar-2018 14:09:36 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[07-Mar-2018 15:41:02 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[08-Mar-2018 07:14:41 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[09-Mar-2018 20:13:25 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Mar-2018 20:35:37 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Mar-2018 20:47:58 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Mar-2018 22:22:30 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Mar-2018 04:42:51 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Mar-2018 04:42:57 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Mar-2018 12:57:00 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Mar-2018 13:40:51 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Mar-2018 13:40:55 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Mar-2018 13:44:32 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[26-Mar-2018 21:52:30 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[26-Mar-2018 21:52:31 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[26-Mar-2018 22:04:27 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[27-Mar-2018 06:30:24 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[27-Mar-2018 09:56:15 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[29-Mar-2018 14:03:45 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[29-Mar-2018 14:08:53 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[29-Mar-2018 14:15:18 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[09-Apr-2018 18:02:02 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[11-Apr-2018 14:01:09 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Apr-2018 06:46:57 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Apr-2018 08:59:42 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Apr-2018 09:51:07 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Apr-2018 09:51:27 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[12-Apr-2018 14:33:00 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 14:38:18 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 16:04:39 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 16:04:43 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 18:26:37 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 19:08:14 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 19:30:34 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 19:31:28 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 19:38:04 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 19:40:58 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[13-Apr-2018 19:43:36 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Warning:  include(reservations/sent.php): failed to open stream: No such file or directory in D:\home\site\app\views\reservations\index.phtml on line 2
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Warning:  include(): Failed opening 'reservations/sent.php' for inclusion (include_path='.;C:\php\pear') in D:\home\site\app\views\reservations\index.phtml on line 2
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Notice:  Undefined variable: name in D:\home\site\app\views\reservations\index.phtml on line 24
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Notice:  Undefined variable: guests in D:\home\site\app\views\reservations\index.phtml on line 28
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Notice:  Undefined variable: phone in D:\home\site\app\views\reservations\index.phtml on line 32
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Notice:  Undefined variable: email in D:\home\site\app\views\reservations\index.phtml on line 36
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Notice:  Undefined variable: date in D:\home\site\app\views\reservations\index.phtml on line 40
+[14-Apr-2018 12:26:10 America/Los_Angeles] PHP Notice:  Undefined variable: time in D:\home\site\app\views\reservations\index.phtml on line 44

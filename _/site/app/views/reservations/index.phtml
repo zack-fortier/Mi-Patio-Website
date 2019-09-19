@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<?php include('reservations/sent.php'); ?>
+<html lang="en">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" href="css/styles.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<title>Mi Patio Mexican Restaurant</title>
+</head>
+<body>
+	
+    <?php include("includes/header.php"); ?>
+    
+	<!-- Center of the Page-->
+	<h2>Reservation Request Form</h2>
+
+<form action="<?= $_SERVER['PHP_SELF'] ?>" method="POST">
+	
+	<fieldset> 
+		<input placeholder="Your Name" type="text" tabindex="1" name="name" value="<?= $name ?>" autofocus>
+	</fieldset>
+    
+    <fieldset> 
+		<input placeholder="Number of Guests" type="text" tabindex="2" name="guests" value="<?= $guests ?>" >
+	</fieldset>
+    
+    <fieldset> 
+		<input placeholder="Phone Number" type="text" tabindex="3" name="phone" value="<?= $phone ?>" >
+	</fieldset>
+
+    <fieldset> 
+		<input placeholder="E-Mail Address" type="text" tabindex="4" name="email" value="<?= $email ?>" >
+	</fieldset>
+    
+    <fieldset> 
+		<input placeholder="Desired Date of Reservation" type="text" tabindex="5" name="date" value="<?= $date ?>" >
+	</fieldset>
+    
+    <fieldset> 
+		<input placeholder="Desired Time of Reservation" type="text" tabindex="6" name="time" value="<?= $time ?>" >
+	</fieldset>
+
+    <fieldset> 
+		<button name="submit" type="submit" data-submit="Sending">Request Your Reservation</button>
+	</fieldset>
+
+</form>
+	<!-- Bottom of the page-->
+	
+    <?php include("includes/footer.php"); ?>
+    
+</body>
+</html>
